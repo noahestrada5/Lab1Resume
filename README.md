@@ -1,7 +1,7 @@
 Noah Estrada
 ====
 
-<img src="/IMG_9228 2.jpg">
+<img src="IMG_9228 2.jpg">
 
 
 Education
