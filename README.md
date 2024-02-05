@@ -4,11 +4,11 @@ Noah Estrada
 <img src="/IMG_9228 2.jpg">
 
 
-####Education
+###Education
 >- **B.S.** in [Biology](https://biology.appstate.edu/) at Appalachian State University 
 
 ----
-####Experience
+###Experience
 >- Undergraduate Researcher
 *December, 2021 - current*
 
@@ -16,7 +16,7 @@ Noah Estrada
 *April, 2023 - current*
 
 ----
-####Skills
+###Skills
 >- GIS Certificate
 >- DNA Extractions / PCR
 >- Gel Electrophoresis
